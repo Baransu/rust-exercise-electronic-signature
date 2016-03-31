@@ -1,0 +1,6 @@
+[package]
+name = "podpis"
+version = "0.1.0"
+authors = ["Baransu <sajgonek123@gmail.com>"]
+
+[dependencies]
